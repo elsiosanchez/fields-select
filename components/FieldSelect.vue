@@ -8,7 +8,7 @@
         :key="item.value"
         :label="item.label"
         :value="item.value"
-        :disabled="item.sabled"
+        :disabled="item.disabled"
       />
     </el-select>
     <!-- <slot name="content" /> -->
