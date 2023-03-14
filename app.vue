@@ -1,0 +1,3 @@
+<template>
+  <FieldSelect :value="''" />
+</template>
