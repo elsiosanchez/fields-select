@@ -70,6 +70,7 @@ const props = defineProps({
   },
   optionList: {
     type: Array,
+    required: true,
     default: [
       {
         lable: '',
